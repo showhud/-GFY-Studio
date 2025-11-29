@@ -1,2 +1,2 @@
-# -GFY-Studio
--GFY-Studio出品
+# GFY-Studio
+GFY-Studio出品
